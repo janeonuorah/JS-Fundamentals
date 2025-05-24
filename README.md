@@ -1,0 +1,1 @@
+This repository contains all exercises and projects aligned with the ALX Frontend Engineering Fundamentals of JavaScript course. It covers essential JavaScript concepts and practical tasks designed to build a strong foundation in frontend development.
